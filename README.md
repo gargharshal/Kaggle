@@ -1,2 +1,2 @@
 # Kaggle
- Kaggle Porjects and Datasets
+ Kaggle Projects and Datasets
