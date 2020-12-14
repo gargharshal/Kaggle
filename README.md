@@ -20,15 +20,15 @@ This project [Folder - Dog Breed Indentification](https://www.kaggle.com/c/dog-b
 ## Sklearn Porjects
 
 
-### Blue Book for Bulldozers(https://www.kaggle.com/c/bluebook-for-bulldozers)
+### [Blue Book for Bulldozers](https://www.kaggle.com/c/bluebook-for-bulldozers)
 
 This [Folder - Blue Book for Bulldozers](https://github.com/gargharshal/Kaggle/tree/master/Bluebook%20for%20Bulldozer) contains dataset as a zip file along with the [Project file](https://github.com/gargharshal/Kaggle/blob/master/Bluebook%20for%20Bulldozer/Blue%20Book%20for%20Bulldozers.ipynb)
 
-### Heart Disease(https://www.kaggle.com/ronitf/heart-disease-uci)
+### [Heart Disease](https://www.kaggle.com/ronitf/heart-disease-uci)
 
-This [Heart Disease](https://github.com/gargharshal/Kaggle/tree/master/Heart%20Disease) contains [Project file](https://github.com/gargharshal/Kaggle/blob/master/Heart%20Disease/Heart%20Disease.ipynb) and the final prediction
+This [Folder - Heart Disease](https://github.com/gargharshal/Kaggle/tree/master/Heart%20Disease) contains [Project file](https://github.com/gargharshal/Kaggle/blob/master/Heart%20Disease/Heart%20Disease.ipynb) and the final prediction
 
-### Titanic(https://www.kaggle.com/c/titanic)
+### [Titanic](https://www.kaggle.com/c/titanic)
 
 This [Folder - Titanic](https://github.com/gargharshal/Kaggle/tree/master/Titanic) contains [Project file](https://github.com/gargharshal/Kaggle/blob/master/Titanic/Titanic%20prediction.ipynb) and different predictions with different hyperparameter
  
