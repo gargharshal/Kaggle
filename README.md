@@ -2,33 +2,55 @@
 
 Kaggle Projects and Datasets
 
-Here are the links and the details of a few Kaggle projects that I have done so far.
+---
 
-## TensorFlow Projects
-
-
-### [Dog Breed Identification](https://www.kaggle.com/c/bluebook-for-bulldozers)
-
-This project [Folder - Dog Breed Indentification](https://www.kaggle.com/c/dog-breed-identification) contains two version.
-    
-* [Dog Breed Identification - My Version](https://github.com/gargharshal/Kaggle/blob/master/Dog%20Breed%20Indentification/Dog%20Breed%20Identification%20-%20My%20Version.ipynb) My Veriosn with a different workflow and differnt Algorithm used.
-
-* [Dog Breed Identification - Course Version](https://github.com/gargharshal/Kaggle/blob/master/Dog%20Breed%20Indentification/Dog%20Breed%20Identification%20-%20Course%20Version.ipynb) Project created from a course referred, [Original Link](https://github.com/mrdbourke/zero-to-mastery-ml/blob/master/section-3-structured-data-projects/end-to-end-bluebook-bulldozer-price-regression.ipynb) of tutor's version
+## Deep Learning Projects
 
 
+#### Dog Breed Identification – CNN
 
-## Sklearn Porjects
+[Project Link](https://github.com/gargharshal/Kaggle/blob/master/Dog%20Breed%20Indentification/Dog%20Breed%20Identification%20-%20My%20Version.ipynb)
+
+- Using [Kaggle dataset](https://www.kaggle.com/c/bluebook-for-bulldozers) to create a dog breed identifier based on an
+image.
+- I used **Transfer Learning** by using a **pretrained Keras model**.
+- I trained every model on a small dataset to find the best one and
+then **NASNetMobile** model was chosen based on **accuracy** and
+**parameter count**.
+- I created **callbacks** to **create logs** and to prevent the model from
+**overfitting**.
+- The model was **trained** on the full dataset and saved as a ‘.h5’ file
+which was used to make **predictions.**
+
+<!-- * [Dog Breed Identification - Course Version](https://github.com/gargharshal/Kaggle/blob/master/Dog%20Breed%20Indentification/Dog%20Breed%20Identification%20-%20Course%20Version.ipynb) Project created from a course referred, [Original Link](https://github.com/mrdbourke/zero-to-mastery-ml/blob/master/section-3-structured-data-projects/end-to-end-bluebook-bulldozer-price-regression.ipynb) of tutor's version -->
 
 
-### [Blue Book for Bulldozers](https://www.kaggle.com/c/bluebook-for-bulldozers)
 
-This [Folder - Blue Book for Bulldozers](https://github.com/gargharshal/Kaggle/tree/master/Bluebook%20for%20Bulldozer) contains dataset as a zip file along with the [Project file](https://github.com/gargharshal/Kaggle/blob/master/Bluebook%20for%20Bulldozer/Blue%20Book%20for%20Bulldozers.ipynb)
+## Scikit-Learn Porjects
 
-### [Heart Disease](https://www.kaggle.com/ronitf/heart-disease-uci)
+#### Bulldozer Price Prediction - Random Forest Regression
 
-This [Folder - Heart Disease](https://github.com/gargharshal/Kaggle/tree/master/Heart%20Disease) contains [Project file](https://github.com/gargharshal/Kaggle/blob/master/Heart%20Disease/Heart%20Disease.ipynb) and the final prediction
+[Project Link](https://github.com/gargharshal/Kaggle/blob/master/Bluebook%20for%20Bulldozer/Blue%20Book%20for%20Bulldozers.ipynb)
 
-### [Titanic](https://www.kaggle.com/c/titanic)
+- Using [Kaggle dataset](https://www.kaggle.com/c/bluebook-for-bulldozers) to create a model predict bulldozer price.
+- Given the data of previous sales prices of bulldozers, we are trying
+to predict the sales price of the bulldozers which have similar
+characteristics.
+- The data was first analyzed to find **missing values** and the **most
+important features.**
+- Missing values were filled, and the data was made compatible for
+modelling.
+- **RandomForestRegressor** was chosen based on [Sklearn Algorithm
+Cheat Sheet](https://scikit-learn.org/stable/tutorial/machine_learning_map/index.html)
+- After hyperparameter tuning, the model was trained and tested.
 
-This [Folder - Titanic](https://github.com/gargharshal/Kaggle/tree/master/Titanic) contains [Project file](https://github.com/gargharshal/Kaggle/blob/master/Titanic/Titanic%20prediction.ipynb) and different predictions with different hyperparameter
- 
+#### Heart Disease
+
+[Project Link](https://github.com/gargharshal/Kaggle/blob/master/Heart%20Disease/Heart%20Disease.ipynb)
+
+- [Kaggle Dataset](https://www.kaggle.com/ronitf/heart-disease-uci)
+
+#### Titanic
+[Project link](https://github.com/gargharshal/Kaggle/blob/master/Titanic/Titanic%20prediction.ipynb)
+
+- [Kaggle Dataset](https://www.kaggle.com/c/titanic)
