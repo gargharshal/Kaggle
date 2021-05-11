@@ -7,7 +7,7 @@ Kaggle Projects and Datasets
 ## Deep Learning Projects
 
 
-#### Dog Breed Identification – CNN
+### Dog Breed Identification – CNN
 
 [Project Link](https://github.com/gargharshal/Kaggle/blob/master/Dog%20Breed%20Indentification/Dog%20Breed%20Identification%20-%20My%20Version.ipynb)
 
@@ -25,7 +25,7 @@ Kaggle Projects and Datasets
 
 ## Scikit-Learn Porjects
 
-#### Bulldozer Price Prediction - Random Forest Regression
+### Bulldozer Price Prediction - Random Forest Regression
 
 [Project Link](https://github.com/gargharshal/Kaggle/blob/master/Bluebook%20for%20Bulldozer/Blue%20Book%20for%20Bulldozers.ipynb)
 
@@ -41,7 +41,7 @@ modelling.
 Cheat Sheet](https://scikit-learn.org/stable/tutorial/machine_learning_map/index.html)
 - After hyperparameter tuning, the model was trained and tested.
 
-#### Heart Disease - Logistic Regression
+### Heart Disease - Logistic Regression
 
 [Project Link](https://github.com/gargharshal/Kaggle/blob/master/Heart%20Disease/Heart%20Disease.ipynb)
 
@@ -51,7 +51,7 @@ Cheat Sheet](https://scikit-learn.org/stable/tutorial/machine_learning_map/index
 - Using **Logistic Regrssion** as the final model, fine tunning hyper parameters with **RandomizedSearchCV** and then training the best model.
 - Understanding the model performance using roc curve, classification_report, etc.
 
-#### Titanic - Random Forest Classifier
+### Titanic - Random Forest Classifier
 [Project link](https://github.com/gargharshal/Kaggle/blob/master/Titanic/Titanic%20prediction.ipynb)
 
 - Using [Kaggle Dataset](https://www.kaggle.com/c/titanic) build a **predictive model** that answers the question: “what sorts of people were more likely to survive the titanic ship wrecks?”
