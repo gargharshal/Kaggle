@@ -46,7 +46,7 @@ Cheat Sheet](https://scikit-learn.org/stable/tutorial/machine_learning_map/index
 [Project Link](https://github.com/gargharshal/Kaggle/blob/master/Heart%20Disease/Heart%20Disease.ipynb)
 
 - Using [Kaggle Dataset](https://www.kaggle.com/ronitf/heart-disease-uci) to predict if a person has heart disease or not.
-- The data on Multiple models to find the best one based on **precison**, **recall**, **f1-score**
+- The data on Multiple models to find the best one based on **precision**, **recall**, **f1-score**
 - Understanding the parameters involved and their importance using **histograms**, **scatter plots**,  **Confusion Matrix**.
 - Using **Logistic Regrssion** as the final model, fine tunning hyper parameters with **RandomizedSearchCV** and then training the best model.
 - Understanding the model performance using roc curve, classification_report, etc.
