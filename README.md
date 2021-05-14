@@ -57,5 +57,5 @@ Cheat Sheet](https://scikit-learn.org/stable/tutorial/machine_learning_map/index
 - Using [Kaggle Dataset](https://www.kaggle.com/c/titanic) build a **predictive model** that answers the question: “what sorts of people were more likely to survive the titanic ship wrecks?”
 - Understanding the **parameters** and **dataset**
 - Filling the missing values **mean or median**
-- Tranforming the data using **OneHotEncoder** to feed into the **classifier**.
+- Transforming the data using **OneHotEncoder** to feed into the **classifier**.
 - Training multiple models with test data to find the best one and creating predictions using **LogisticRegression**.
