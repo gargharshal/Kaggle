@@ -11,7 +11,7 @@ Kaggle Projects and Datasets
 
 [Project Link GitHub](https://github.com/gargharshal/Kaggle/blob/master/Dog%20Breed%20Indentification/Dog%20Breed%20Identification%20-%20My%20Version.ipynb) - If this doesn't render, use this link [Jupyter nbviewer](https://nbviewer.jupyter.org/github/gargharshal/Kaggle/blob/master/Dog%20Breed%20Indentification/Dog%20Breed%20Identification%20-%20My%20Version.ipynb) (view only)
 
-- Used [Kaggle dataset](https://www.kaggle.com/c/bluebook-for-bulldozers) to create a dog breed identifier based on a single image given by the user image.
+- Used [Kaggle dataset](https://www.kaggle.com/c/dog-breed-identification) to create a dog breed identifier based on a single image given by the user image.
 - I used **Transfer Learning** by using a **pretrained Keras model**.
 - I trained every model on a small dataset to find the best chosen based on **accuracy** and
 **parameter count**.
